@@ -1,1 +1,1 @@
-Please see the [main raceboat repository](https://github.com/tst-race/raceboat/releases/tag/pets24)
+Please see the [main raceboat repository](https://github.com/tst-race/raceboat/)
